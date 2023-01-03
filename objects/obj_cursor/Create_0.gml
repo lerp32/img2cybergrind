@@ -1,0 +1,1 @@
+curangle = point_direction(mouse_x, mouse_y, obj_image.x, obj_image.y)
