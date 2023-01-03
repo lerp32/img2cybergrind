@@ -9,7 +9,7 @@
 
  Download the source code and install [GameMaker](https://gamemaker.io/)
 
- And then its as simple as clicking the Play button <img src="githubimages/Icon_PlayGame.png" alt="Play Button"/> to make a temporary build or by clicking the Create Executable button <img src="githubimages/Icon_Compile.png" alt="Create Executable Button"/> to compile it as an executable (if you have a subscription or a legacy license that is).
+ And then its as simple as clicking the Play button <img src="githubimages/Icon_PlayGame.png" alt="Play Button"/> to make a temporary build or by clicking the Create Executable button <img src="githubimages/Icon_Compile.png" alt="Create Executable Button"/> to compile it as an executable (Note: you can only compile as an executable if you have a subscription or a legacy license).
 
 # Credits
 
