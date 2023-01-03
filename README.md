@@ -1,7 +1,7 @@
 # img2cybergrind
 
  A tool that turns images into ULTRAKILL cybergrind patterns.
- [![GitHub](https://img.shields.io/github/license/lerp32/img2cybergrind?logo=github)](https://github.com/lerp32/img2cybergrind/LICENSE/)
+ [![GitHub](https://img.shields.io/github/license/lerp32/img2cybergrind?logo=github)](https://github.com/lerp32/img2cybergrind/blob/master/LICENSE/)
 
 # Compiling
 
